@@ -17,3 +17,4 @@
 ##### A script that creates a directory called dir_holberton with permissions 751 in the working directory #####
 ##### A script that changes the group owner to holberton for the file hello #####
 ##### A script that changes the owner to betty and the group owner to holberton for all the files and directories in the working directory #####
+##### A script that changes the owner and the group owner of _hello to betty and holberton respectively #####
