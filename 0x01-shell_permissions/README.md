@@ -14,3 +14,4 @@
 > -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 ##### A script that sets the mode of the file hello the same as olleh’s mode #####
 ##### script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed. #####
+##### A script that creates a directory called dir_holberton with permissions 751 in the working directory #####
