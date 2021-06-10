@@ -1,4 +1,4 @@
-#####  A script that switches the current user to the user betty #####
+##### A script that switches the current user to the user betty #####
 ##### A script that prints the effective username of the current user #####
 ##### A script that prints all the groups the current user is part of #####
 ##### A script that changes the owner of the file hello to the user betty #####
@@ -13,3 +13,4 @@
 ##### A  a script that sets the mode of the file hello to this: #####
 > -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 ##### A script that sets the mode of the file hello the same as olleh’s mode #####
+##### script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed. #####
