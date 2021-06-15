@@ -9,3 +9,4 @@
 ##### This script writes the result of the command ls -la into the file ls_cwd_content
 ##### A script deleting all regular files with the .js extension in the current and subfolders
 ##### This script counts the number of directories and sub-directories
+##### script that displays the 10 newest files in the current directory from the newest to the oldest one by one
