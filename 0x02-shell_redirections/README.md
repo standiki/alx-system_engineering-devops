@@ -4,5 +4,5 @@
 ##### Script displaying the content of /etc/passwd and /etc/hosts
 ##### Script that display the last 10 lines of /etc/passwd
 ##### Script displaying the first 10 lines of /etc/passwd
-##### Displays the last 10 line of the iacta file
+##### Displays the third line of the iacta file
 ##### A shell script that creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending with a new line.
