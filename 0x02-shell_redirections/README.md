@@ -7,3 +7,4 @@
 ##### Displays the third line of the iacta file
 ##### A shell script that creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending with a new line.
 ##### This script writes the result of the command ls -la into the file ls_cwd_content
+##### A script deleting all regular files with the .js extension in the current and subfolders
